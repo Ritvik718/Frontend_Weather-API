@@ -1,6 +1,6 @@
 # Weather_2
 
-The Real-Time Weather App is a web application that provides users with up-to-date weather information, current date, and time. Built using HTML, CSS, JavaScript, and APIs, this project offers a user-friendly interface to access essential weather details for various locations.
+This is a web application that provides users with up-to-date weather information, current date, and time. Built using HTML, CSS, JavaScript, and APIs, this project offers a user-friendly interface to access essential weather details for various locations.
 
 Real-Time Weather Data: The app utilizes weather APIs to fetch real-time weather information for the user's specified location. 
 
