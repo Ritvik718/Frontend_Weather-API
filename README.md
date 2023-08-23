@@ -1,4 +1,4 @@
-# Frontend-Weather-2
+# Frontend-Weather-01
 Weather Web Application
 
 ## Introduction
